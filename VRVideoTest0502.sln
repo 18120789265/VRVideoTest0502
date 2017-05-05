@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRVideoTest0502.CSharp", "VRVideoTest0502.CSharp.csproj", "{08DC72DB-7C50-753E-88CA-E889693A112C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRVideoTest0502.CSharp.Editor", "VRVideoTest0502.CSharp.Editor.csproj", "{DCF78925-7539-DADA-88D3-90B320527533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08DC72DB-7C50-753E-88CA-E889693A112C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08DC72DB-7C50-753E-88CA-E889693A112C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08DC72DB-7C50-753E-88CA-E889693A112C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08DC72DB-7C50-753E-88CA-E889693A112C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCF78925-7539-DADA-88D3-90B320527533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF78925-7539-DADA-88D3-90B320527533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF78925-7539-DADA-88D3-90B320527533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF78925-7539-DADA-88D3-90B320527533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
